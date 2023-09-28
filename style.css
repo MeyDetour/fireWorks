@@ -1,0 +1,44 @@
+.body{
+    margin: 0 ;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+.rouge{
+    color: red;
+}
+.fireworks{
+    background-image: url(img.png);
+    height: 100vh;
+    width: 100vw;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+}
+.navigbar{
+    background-color: rgba(0, 0, 255, 0.62);
+    color: #ffffff;
+    height: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 2vw;
+    padding-right: 2vw;
+}
+.menu {
+    margin: 5px ;
+
+}
+.punchline{
+    height: 90%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.punch{
+    font-size: 90px;
+    color: white;
+    background-color: rgba(0, 0, 255, 0.44);
+    margin: 5px;
+}
