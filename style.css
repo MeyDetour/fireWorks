@@ -27,6 +27,8 @@
 }
 .menu {
     margin: 5px ;
+    text-decoration: none;
+    color: white;
 
 }
 .punchline{
